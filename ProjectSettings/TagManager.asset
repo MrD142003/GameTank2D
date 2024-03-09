@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullet
+  - Agent
+  - Hittable
+  - ObstaclesMovement
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2917871129
+    locked: 0
+  - name: DetailsBottom
+    uniqueID: 76595059
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1917849415
+    locked: 0
+  - name: Enemies
+    uniqueID: 2355281551
+    locked: 0
+  - name: Player
+    uniqueID: 1094526697
+    locked: 0
+  - name: Items
+    uniqueID: 3237752817
+    locked: 0
+  - name: Bullets
+    uniqueID: 1346368541
+    locked: 0
+  - name: SpecialEffects
+    uniqueID: 2454723773
+    locked: 0
+  - name: DetailsTop
+    uniqueID: 763665779
+    locked: 0
+  - name: UI
+    uniqueID: 1932016553
+    locked: 0
